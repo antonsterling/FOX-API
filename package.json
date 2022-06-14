@@ -1,4 +1,5 @@
 {
+  "homepage": "https://antonsterling.github.io/FOX-API",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
